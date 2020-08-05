@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace GenericsExample
 {
+    //Generic with class name
     class TestGenericClass<T>
     {
         //Generic with variable
